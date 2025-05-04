@@ -6,6 +6,7 @@ import {
   CardContent,
   CardMedia,
   Chip,
+  Grid,
 } from '@mui/material';
 import { Trip, Activity } from '../../types';
 import { motion } from 'framer-motion';

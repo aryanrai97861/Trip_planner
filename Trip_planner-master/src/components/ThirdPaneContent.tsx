@@ -5,6 +5,7 @@ import {
   TextField,
   Button,
   IconButton,
+  Grid,
 } from '@mui/material';
 import CloseIcon from '@mui/icons-material/Close';
 import { Trip } from '../types';
